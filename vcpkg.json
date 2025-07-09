@@ -1,0 +1,15 @@
+{
+  "name": "wapcaplet",
+  "version-semver": "1.0.0",
+  "dependencies": [],
+  "default-features": [],
+  "features": {
+    "test": {
+      "description": "Dependencies for testing",
+      "dependencies": [
+        "gtest"
+      ]
+    }
+  },
+  "builtin-baseline": "d7112d1a4fb50410d3639f5f586972591d848beb"
+}
